@@ -1,4 +1,4 @@
-![CI](https://github.com/divisiblebyzero-uk/rest-and-graph.kotlin/workflows/CI/badge.svg)
+[![Build Status](https://travis-ci.com/divisiblebyzero-uk/rest-and-graph.kotlin.svg?branch=master)](https://travis-ci.com/divisiblebyzero-uk/rest-and-graph.kotlin) ![CI](https://github.com/divisiblebyzero-uk/rest-and-graph.kotlin/workflows/CI/badge.svg)
 # Rest and Graph Demonstration project - Kotlin implementation
 
 This is a project to demo REST and GraphQL using Kotlin (and Spring boot). There are sister projects in Node.JS, C# and Java.
