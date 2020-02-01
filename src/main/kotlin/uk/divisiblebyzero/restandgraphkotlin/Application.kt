@@ -1,8 +1,8 @@
-package uk.co.divisiblebyzero.restandgraphkotlin
+package uk.divisiblebyzero.restandgraphkotlin
 
 import org.springframework.boot.SpringApplication
 import org.springframework.boot.autoconfigure.SpringBootApplication
-import uk.co.divisiblebyzero.restandgraphkotlin.repositories.CountryRepository
+import uk.divisiblebyzero.restandgraphkotlin.repositories.CountryRepository
 import javax.annotation.Resource
 
 @SpringBootApplication

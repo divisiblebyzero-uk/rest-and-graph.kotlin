@@ -1,4 +1,4 @@
-package uk.co.divisiblebyzero.restandgraphkotlin.entities
+package uk.divisiblebyzero.restandgraphkotlin.entities
 
 import javax.persistence.Entity
 import javax.persistence.GeneratedValue

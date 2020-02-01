@@ -26,7 +26,7 @@ h1 { font-family: Arial, "Helvetica Neue", Helvetica, sans-serif; font-size: 24p
 <ul>
     <li><a href="/countries">Sprint RestRepository for countries</a></li>
     <li><a href="/cities">Sprint RestRepository for cities</a></li>
-    <li>Add a City via curl: <code>curl -i -H "Content-Type:application/json" -d "{\"country\": \"France\", \"name\": \"Lyons\"}" http://localhost:8080/cities</code></li>
+    <li>Add a City via curl: <code>curl -i -H "Content-Type:application/json" -d "{\"country\": \"http://localhost:8080/countries/1\", \"name\": \"Lyons\", \"size\": \"Medium\"}" http://localhost:8080/cities</code></li>
 </ul>
 </p>
 
